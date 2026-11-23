@@ -14,8 +14,8 @@ const projects = [
     // Custom buttons - each project can have different buttons
     buttons: [
       { label: 'View Details', url: '#', type: 'primary', modal: true },
-      { label: 'View Behance Portfolio', url: 'https://www.behance.net/jomroberto/projects', type: 'secondary', target: '_blank' },
-      { label: 'View Canva Portfolio', url: 'https://modgedesign.my.canva.site/md', type: 'secondary', target: '_blank' }
+      //{ label: 'View Behance Portfolio', url: 'https://www.behance.net/jomroberto/projects', type: 'secondary', target: '_blank' },
+      { label: 'View Portfolio', url: 'https://modgedesign.my.canva.site/md', type: 'secondary', target: '_blank' }
     ],
     images: ['assets/images/projects/project1.png'],
     thumbnail: 'assets/images/projects/project1.png'
